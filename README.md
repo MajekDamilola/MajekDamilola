@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Marhk
-- 👀 I’m interested in cryptocurrency
-- 🌱 I’m currently learning project management
-- 💞️ I’m looking to collaborate on project development
-- 📫 How to reach me ( telegram : @James_Marhk ) 
-
-
+Hi, I’m @Marhk
+I’m interested in cryptocurrency and cryptography and apps development
+I also create educational contents for web3 project and manage communities
